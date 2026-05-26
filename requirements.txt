@@ -1,0 +1,13 @@
+#requirements.txt
+streamlit
+groq
+python-dotenv
+requests
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+dash
