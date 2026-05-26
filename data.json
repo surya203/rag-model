@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Artificial Intelligence",
+        "text": "Artificial intelligence, or AI, is the field of building systems that can perform tasks that usually require human intelligence, such as reasoning, language understanding, image recognition, and decision making."
+    },
+    {
+        "title": "Machine Learning",
+        "text": "Machine learning is a branch of AI where models learn patterns from data. Common types include supervised learning, unsupervised learning, and reinforcement learning."
+    },
+    {
+        "title": "Python",
+        "text": "Python is a popular programming language for AI and machine learning because it is easy to read and has strong libraries such as NumPy, pandas, scikit-learn, TensorFlow, and PyTorch."
+    },
+    {
+        "title": "Neural Networks",
+        "text": "Neural networks are machine learning models inspired by the human brain. They are widely used in deep learning for tasks like image classification, speech recognition, and natural language processing."
+    },
+    {
+        "title": "RAG",
+        "text": "Retrieval-augmented generation, or RAG, improves language model answers by first retrieving relevant documents from a knowledge base and then using that context to generate a response."
+    },
+    {
+        "title": "Data Science",
+        "text": "Data science combines statistics, programming, and domain knowledge to analyze data, build predictive models, and communicate insights. Python is one of the most widely used languages in data science."
+    },
+    {
+        "title": "Large Language Models",
+        "text": "Large language models are trained on huge amounts of text data to understand and generate human-like language. They are used in chatbots, summarization, question answering, and coding assistants."
+    },
+    {
+        "title": "Supervised Learning",
+        "text": "Supervised learning uses labeled data to train a model. Examples include predicting house prices, classifying emails as spam, and recognizing handwritten digits."
+    },
+    {
+        "title": "Unsupervised Learning",
+        "text": "Unsupervised learning finds patterns in unlabeled data. Typical tasks include clustering similar items, reducing dimensions, and discovering hidden structure in datasets."
+    },
+    {
+        "title": "PyTorch",
+        "text": "PyTorch is an open source deep learning framework used for building and training neural networks. It is popular in research and production because of its flexibility and strong Python support."
+    }
+]
